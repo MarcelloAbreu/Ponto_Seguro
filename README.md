@@ -186,5 +186,12 @@ python manage.py runserver
 
 ## Time de Desenvolvimento
 
-| [<img src="https://github.com/VitorAntonioKuhnen/Ponto_Seguro/assets/57823410/e6baf733-104b-4e92-985d-1e230ff5db61" width=50><br><sub>Marcello Henrique Abreu Nunes</sub>](https://github.com/MarcelloAbreu) | [<img src="https://github.com/VitorAntonioKuhnen/Ponto_Seguro/assets/57823410/b493e984-0d6d-439c-92d1-47abab27eb84" width=50><br><sub>Maria Artemisia Dutra Sousa</sub>](https://github.com/ArtemisiaDutra) | [<img src="https://github.com/VitorAntonioKuhnen/Ponto_Seguro/assets/57823410/002bf449-df9c-4b4a-ace4-e2566f8234bc" width=50><br><sub>Vinicius M. Schutz</sub>](https://github.com/vinicius-schutz) |  [<img src="https://github.com/VitorAntonioKuhnen/Ponto_Seguro/assets/57823410/7c5a459e-0aa4-4fc7-9cac-3110fa4632a8" width=50><br><sub>Vítor Antônio Kuhnen </sub>](https://github.com/VitorAntonioKuhnen) |
+| [<img src="https://github.com/VitorAntonioKuhnen/Ponto_Seguro/assets/57823410/e6baf733-104b-4e92-985d-1e230ff5db61" width=50><br><sub>Marcello Henrique Abreu Nunes</sub>](https://github.com/MarcelloAbreu)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+[<img src="https://github.com/VitorAntonioKuhnen/Ponto_Seguro/assets/57823410/b493e984-0d6d-439c-92d1-47abab27eb84" width=50><br><sub>Maria Artemisia Dutra Sousa</sub>](https://github.com/ArtemisiaDutra) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
+[<img src="https://github.com/VitorAntonioKuhnen/Ponto_Seguro/assets/57823410/002bf449-df9c-4b4a-ace4-e2566f8234bc" width=50><br><sub>Vinicius M. Schutz</sub>](https://github.com/vinicius-schutz) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
+[<img src="https://github.com/VitorAntonioKuhnen/Ponto_Seguro/assets/57823410/7c5a459e-0aa4-4fc7-9cac-3110fa4632a8" width=50><br><sub>Vítor Antônio Kuhnen </sub>](https://github.com/VitorAntonioKuhnen) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :---: | :---: 
